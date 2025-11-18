@@ -1,2 +1,2 @@
 # Environmental-Awareness-Website
-Created with HTML.
+I used HTML, CSS, and asset files used to build a simple, educational website focused on promoting environmental awareness. It includes structured sections such as an introduction to environmental issues, explanations of major environmental problems (like pollution, deforestation, and land disturbance), the impacts of environmental damage, and inspirational quotes from notable figures.
